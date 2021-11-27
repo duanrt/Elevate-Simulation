@@ -1,0 +1,176 @@
+Simulation of Elevators in the building!
+Elevator is generated. Idle at floor 1
+====== Printing persons waiting for elevator ============
+Person generated, going from floor 5 to floor 2
+Elevator is going from floor 1 to 5
+Elevator is passing floor 2
+====== Printing persons waiting for elevator ============
+Elevator is passing floor 3
+Elevator is passing floor 4
+Elevator is arrived at floor 5
+Elevator is going from floor 5 to 2
+Elevator is passing floor 4
+Elevator is passing floor 3
+Elevator is arrived at floor 2
+Person who goes from floor 5 to floor 2 existed the door
+Person generated, going from floor 1 to floor 5
+ Person goes from floor 1 to floor 5
+There are 1 persons waiting at floor 1
+There are 0 persons waiting at floor 5
+Elevator is going from floor 2 to 1
+Elevator is arrived at floor 1
+====== Printing persons waiting for elevator ============
+Elevator is going from floor 1 to 5
+Elevator is passing floor 2
+Elevator is passing floor 3
+Elevator is passing floor 4
+Elevator is arrived at floor 5
+Person who goes from floor 1 to floor 5 existed the door
+Person generated, going from floor 3 to floor 4
+ Person goes from floor 3 to floor 4
+There are 0 persons waiting at floor 1
+There are 1 persons waiting at floor 3
+There are 0 persons waiting at floor 5
+Elevator is going from floor 5 to 3
+Elevator is passing floor 4
+====== Printing persons waiting for elevator ============
+Elevator is arrived at floor 3
+Elevator is going from floor 3 to 4
+Elevator is arrived at floor 4
+Person who goes from floor 3 to floor 4 existed the door
+Person generated, going from floor 4 to floor 1
+ Person goes from floor 4 to floor 1
+There are 0 persons waiting at floor 1
+There are 0 persons waiting at floor 3
+There are 1 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Elevator is going from floor 4 to 1
+Elevator is passing floor 3
+====== Printing persons waiting for elevator ============
+Elevator is passing floor 2
+Elevator is arrived at floor 1
+Person who goes from floor 4 to floor 1 existed the door
+Person generated, going from floor 5 to floor 3
+ Person goes from floor 5 to floor 3
+There are 0 persons waiting at floor 1
+There are 0 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 1 persons waiting at floor 5
+Elevator is going from floor 1 to 5
+Elevator is passing floor 2
+====== Printing persons waiting for elevator ============
+Elevator is passing floor 3
+Elevator is passing floor 4
+Elevator is arrived at floor 5
+Elevator is going from floor 5 to 3
+Elevator is passing floor 4
+Elevator is arrived at floor 3
+Person who goes from floor 5 to floor 3 existed the door
+Person generated, going from floor 5 to floor 3
+ Person goes from floor 5 to floor 3
+There are 0 persons waiting at floor 1
+There are 0 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 1 persons waiting at floor 5
+Elevator is going from floor 3 to 5
+Elevator is passing floor 4
+====== Printing persons waiting for elevator ============
+Elevator is arrived at floor 5
+Elevator is going from floor 5 to 3
+Elevator is passing floor 4
+Elevator is arrived at floor 3
+Person who goes from floor 5 to floor 3 existed the door
+Person generated, going from floor 2 to floor 4
+ Person goes from floor 2 to floor 4
+There are 0 persons waiting at floor 1
+There are 1 persons waiting at floor 2
+There are 0 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Elevator is going from floor 3 to 2
+Elevator is arrived at floor 2
+====== Printing persons waiting for elevator ============
+Elevator is going from floor 2 to 4
+Elevator is passing floor 3
+Elevator is arrived at floor 4
+Person who goes from floor 2 to floor 4 existed the door
+Person generated, going from floor 2 to floor 1
+ Person goes from floor 2 to floor 1
+There are 0 persons waiting at floor 1
+There are 1 persons waiting at floor 2
+There are 0 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Elevator is going from floor 4 to 2
+Elevator is passing floor 3
+====== Printing persons waiting for elevator ============
+Elevator is arrived at floor 2
+Elevator is going from floor 2 to 1
+Elevator is arrived at floor 1
+Person who goes from floor 2 to floor 1 existed the door
+Person generated, going from floor 3 to floor 5
+ Person goes from floor 3 to floor 5
+There are 0 persons waiting at floor 1
+There are 0 persons waiting at floor 2
+There are 1 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Elevator is going from floor 1 to 3
+Elevator is passing floor 2
+====== Printing persons waiting for elevator ============
+Elevator is arrived at floor 3
+Elevator is going from floor 3 to 5
+Elevator is passing floor 4
+Elevator is arrived at floor 5
+Person who goes from floor 3 to floor 5 existed the door
+Person generated, going from floor 2 to floor 1
+ Person goes from floor 2 to floor 1
+There are 0 persons waiting at floor 1
+There are 1 persons waiting at floor 2
+There are 0 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Elevator is going from floor 5 to 2
+Elevator is passing floor 4
+Elevator is passing floor 3
+====== Printing persons waiting for elevator ============
+Elevator is arrived at floor 2
+Elevator is going from floor 2 to 1
+Elevator is arrived at floor 1
+Person who goes from floor 2 to floor 1 existed the door
+Person generated, going from floor 1 to floor 2
+ Person goes from floor 1 to floor 2
+There are 1 persons waiting at floor 1
+There are 0 persons waiting at floor 2
+There are 0 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Elevator is going from floor 1 to 2
+Elevator is arrived at floor 2
+====== Printing persons waiting for elevator ============
+Person who goes from floor 1 to floor 2 existed the door
+There are 0 persons waiting at floor 1
+There are 0 persons waiting at floor 2
+There are 0 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Person generated, going from floor 1 to floor 5
+Elevator is going from floor 2 to 1
+TBD: need stop at floor 1 to take people in
+Elevator is going from floor 1 to 5
+Elevator is passing floor 2
+====== Printing persons waiting for elevator ============
+Elevator is passing floor 3
+Elevator is passing floor 4
+Elevator is arrived at floor 5
+Person who goes from floor 1 to floor 5 existed the door
+Person generated, going from floor 3 to floor 1
+ Person goes from floor 3 to floor 1
+There are 0 persons waiting at floor 1
+There are 0 persons waiting at floor 2
+There are 1 persons waiting at floor 3
+There are 0 persons waiting at floor 4
+There are 0 persons waiting at floor 5
+Elevator is going from floor 5 to 3
+Elevator is passing floor 4
+...
