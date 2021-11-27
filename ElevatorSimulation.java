@@ -190,8 +190,8 @@ class Simulation extends Thread {
 		            
 		            nextFloor = e.currentFloor + 1;
 	            }	            
-			}
 		}
+	    }
 	}
 }
 
